@@ -3,6 +3,22 @@
   "version": "1.0.0",
   "description": "API to check if text is palindrome",
   "main": "index.js",
-  "scripts": { "start": "node index.js" },
-  "license": "MIT"
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nong4za/devops68-palindrome-checker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Nong4za/devops68-palindrome-checker/issues"
+  },
+  "homepage": "https://github.com/Nong4za/devops68-palindrome-checker#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
