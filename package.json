@@ -1,5 +1,5 @@
 {
-  "name": "palindrome-checker",
+  "name": "devops68-palindrome-checker",
   "version": "1.0.0",
   "description": "API to check if text is palindrome",
   "main": "index.js",
